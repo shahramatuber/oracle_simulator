@@ -38,5 +38,5 @@ Run the following command from the repository root directory:
   
 There is a test file included in this repo that you can use:
 
-`python3 simulator.py ./test/sample1.txt`
+`python3 simulator.py ./test/fixtures/sample1.txt`
 
